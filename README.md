@@ -46,6 +46,11 @@ Sales Development Representative AI agent that qualifies inbound leads, books me
 
 ## Architecture
 
+![7-Layer Architecture](docs/diagrams/architecture-7-layer.png)
+
+*Where RAG sits in the stack — the 7-layer enterprise AI agent architecture.*
+
+
 ```
 sdr-agent/
 │
